@@ -1,7 +1,7 @@
 #MyEclipse Hibernate Properties
-#Sat Dec 23 10:11:49 CST 2017
+#Tue Dec 26 15:43:25 CST 2017
 genBasicCompId=true
-sessionFactoryName=
+sessionFactoryName=com.qhit.lh.g4.lmy.t2.utils.HibernateSessionFactory
 profile=
 daoSFId=
 jndiPath=
@@ -15,6 +15,6 @@ genVersionTag=false
 sessionFactoryId=
 basePersistenceClass=
 genAnnotations=false
-reSettingsFile=/HBT7/hibernate.reveng.xml
-configFile=/HBT7/src/hibernate.cfg.xml
+reSettingsFile=/HBT4/src/hibernate.reveng.xml
+configFile=/HBT2/src/hibernate.cfg.xml
 createConfigFile=true
